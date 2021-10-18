@@ -1,0 +1,8 @@
+.inpt {
+  display: block;
+  width: 250px;
+  padding: 8px;
+  border: 1px solid teal;
+  border-radius: 2px;
+  margin: 10px 0;
+}

@@ -1,0 +1,37 @@
+.btn {
+  border: 1px solid teal;
+  border-radius: 3px;
+  padding: 7px;
+  background: none;
+  cursor: pointer;
+  color: teal;
+}
+.btn:hover {
+  background: teal;
+  color: #fff;
+}
+.danger{
+  border: 1px solid #C71400;
+  border-radius: 3px;
+  padding: 7px;
+  background: none;
+  cursor: pointer;
+  color: #C71400;
+}
+.danger:hover {
+  background: #C71400;
+  color: #fff;
+}
+
+.regular{
+  border: 1px solid #1C71C7;
+  border-radius: 3px;
+  padding: 7px;
+  background: none;
+  cursor: pointer;
+  color: #1C71C7;
+}
+.regular:hover{
+  background: #1C71C7;
+  color: #fff;
+}
